@@ -1,2 +1,2 @@
 # za
-Pizza app as example of using EHTML framework
+Pizza app as an example of using EHTML framework
